@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ziofy
 - 👀 I’m interested in Semiconductor Engineering
 - 🌱 I’m providing solution for ASIC/FPGA/SoC Designing
-- 💞️ I’m looking to partnering with you
+- 💞️ I’m looking to serve you
 - 📫 Wite me at "ziofydigital@gmail.com"
 
 <!---
